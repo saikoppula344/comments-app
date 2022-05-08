@@ -8,7 +8,7 @@ import "./index.css";
 const initialContainerBackgroundClassNames = [
   "amber",
   "blue",
-  "orange",
+  "green",
   "emerald",
   "teal",
   "red",
